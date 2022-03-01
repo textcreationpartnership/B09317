@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties regulation in the business of plate-carriage, &amp;c. with his establishment of an allowance for their tables, and other encouragements to his sea-commanders ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09317</idno>
+            <idno type="STC">Wing J379</idno>
+            <idno type="STC">ESTC R179599</idno>
+            <idno type="EEBO-CITATION">62369352</idno>
+            <idno type="OCLC">ocm 62369352</idno>
+            <idno type="VID">187964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187964)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties regulation in the business of plate-carriage, &amp;c. with his establishment of an allowance for their tables, and other encouragements to his sea-commanders ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>Pepys, Samuel, 1633-1703.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "By His Majesties Command -- S. Pepys :  A true copy" -- p. 7.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1685-1688 : James II)</term>
+               <term>Great Britain. --  Royal Navy --  Regulations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:187964:1" rendition="simple:additions"/>
+            <head>His Majeſties REGULATION In the buſineſs of PLATE-CARRIAGE, <hi>&amp;c.</hi> WITH HIS ESTABLISHMENT Of an Allowance for their <hi>TABLES,</hi> and other Encouragements to his <hi>SEA-COMMANDERS.</hi>
+            </head>
+            <opener>
+               <signed>James R.</signed>
+            </opener>
+            <p>WHEREAS from the Enquiries by Us ſo<g ref="char:EOLhyphen"/>lemnly made (ſince Our acceſſion to the Throne of this Our Kingdom of <hi>England)</hi> into the State of Our Royal Navy, and the general Diſorders into which both it and it's Diſcipline have of late years fallen, We are (among the many other Evils diſco<g ref="char:EOLhyphen"/>vered therein, and which We have already in great meaſure provided Remedies to) arrived at a full Information in that particular one, whereto Our Service is in a moſt eſpecial man<g ref="char:EOLhyphen"/>ner expoſed, from the liberty taken by Commanders of Our Ships (upon all opportunities of private profit) of converting the Service of Our ſaid Ships to their own uſe; to the total neg<g ref="char:EOLhyphen"/>lect of the Publick Ends for which they, at Our great Charge, are ſet forth and maintained, namely, the annoying of Our E<g ref="char:EOLhyphen"/>nemies, the protecting the Eſtates of Our Trading-Subjects, and the ſupport of Our honour with Forreign Princes; And foraſ<g ref="char:EOLhyphen"/>much
+<pb n="2" facs="tcp:187964:2"/>alſo as this Evil ſeems principally to ariſe from the univer<g ref="char:EOLhyphen"/>ſal abuſe of the liberty for ſome time indulged to Our ſaid Com<g ref="char:EOLhyphen"/>manders, of Tranſporting of Plate, Bullion and Jewels; to the occaſioning thereby the ſaid General miſ-employment of Our Ships, and Our want of thoſe full and frequent Accounts of the Procedings of Our Commanders abroad, which by their known Inſtructions they ſtand obliged to give Us; Our will and plea<g ref="char:EOLhyphen"/>ſure is, and it is hereby ſolemnly declared.</p>
+            <p n="1">I. That no Admiral, Commander in chief, Captain of any of Our Ships, or other Officers ſerving Us therein, ſhall pre<g ref="char:EOLhyphen"/>ſume from henceforward upon any pretence, or by vertue of any former Allowance, Inſtruction, or Practice whatſoever, to receive, direct, or permit to be received, on board any of Our ſaid Ships, any Money, Plate, Bullion, Jewels, or other Merchandize or Goods, (fine or groſs) whatſoever, whether belonging to Strangers or Our own Subjects, either under pre<g ref="char:EOLhyphen"/>text of concealing or protecting the ſame, or the Tranſpor<g ref="char:EOLhyphen"/>ting thereof from Port to Port, or from any Forreign Port for <hi>England,</hi> whether upon Application to them made by any Our Merchant-Subjects in Forreign Parts, or from any other in<g ref="char:EOLhyphen"/>ducement whatſoever, ſaving by Written Warrant under Our own Royal hand, and that only; upon pain of being (on conviction) immediately diſcharged from their preſent, and rendred incapable of any future Employment in Our Service, as alſo of refunding to the uſe of Our maimed Seamen of the Cheſt at <hi>Chatham,</hi> the full value of the Profits they ſhall be found to have made by any violation of this Our Or<g ref="char:EOLhyphen"/>der, and of ſuffering ſuch further puniſhment, as by the Laws of the Sea, they ſhall become liable to for the ſame.</p>
+            <p n="2">II. That none of Our aforeſaid General Officers or private Commanders ſhall (upon like forfeiture and penalties) pre<g ref="char:EOLhyphen"/>ſume to carry, or direct the carrying any Paſſenger or Paſ<g ref="char:EOLhyphen"/>ſengers (whether Strangers or others) of what Degree or Qua<g ref="char:EOLhyphen"/>lity ſoever, from one Place to another, in any of Our Ships
+<pb n="3" facs="tcp:187964:2"/>of War under their Command, unleſs by like particular Or<g ref="char:EOLhyphen"/>der given in Writing from Our ſelf for their ſo doing; ſuch only excepted, as by the Eleventh Article of our preſent General Inſtructions they are obliged to receive and give paſſage to; namely, Our Subjects redeemed from Slavery, Shipwreckt, or taken at Sea out of Forreign Ships.</p>
+            <p n="3">III. That all Admirals and Commanders in chief of Our Ships do for the time to come take care, that as often as they ſhall have occaſion of giving Orders for the proceding of any of Our Ships under their Command on any Service, the ſame be done in Writing under their hands, with Copies thereof to be ſent by the firſt opportunity of Conveyance (by Land and Sea) to the Secretary of Our Admiralty for Our information. And that the ſame be in like manner done by the Commanders of every of Our private Ships, in Tranſmitting to our ſaid Secre<g ref="char:EOLhyphen"/>tary for our like Information, Copies of every Order they ſhall receive from their Admiral, Commander in chief, or other Su<g ref="char:EOLhyphen"/>perior Officer.</p>
+            <p n="4">IV. That every of Our fore-mentioned Officers and Com<g ref="char:EOLhyphen"/>manders reſpectively, do obſerve, that as often as Our Service requires their going into any Forreign Port, they do by the firſt Poſt after their arrival, (and ſo from Poſt to Poſt during their ſtay there) give Us (through the hand of our ſaid Se<g ref="char:EOLhyphen"/>cretary) a particular Account of their Proceedings, from the date of their laſt, with Abſtracts of their Journals during that time; and that care be taken for their leaving the like with Our Conſul or other publick Miniſter in that Place, to be by him forwarded to Our ſaid Secretary, by the firſt Convey<g ref="char:EOLhyphen"/>ance after their departure thence; ſo as we may at all times have a conſtant and thorough knowledge of the Condition, Services, and Procedings of all and every of Our Ships Employed on Forreign Service, with the occaſions of the ſame.</p>
+            <p>Laſtly, That at the end of each Voyage, an entire Book, containing a perfect Journal thereof, together with a Book
+<pb n="4" facs="tcp:187964:3"/>of Entries to be kept of all Orders, either iſſued or received (as before) by them therein, be delivered for Our uſe to Our ſaid Secretary of the Admiralty (and ſworn to if required) by every of Our ſaid Admirals, Commanders in Chief, and private Commanders, immediately upon their coming into Port to be laid up, and before the paying off of the Ships where<g ref="char:EOLhyphen"/>to they reſpectively belong. Both which Books Our ſaid Se<g ref="char:EOLhyphen"/>cretary is to cauſe to be well Examined by himſelf, or ſuch other Perſon as ſhall be expreſly appointed thereto, in order to a Report to be therefrom made to Us, of the different De<g ref="char:EOLhyphen"/>grees of Care or neglect wherewith theſe and all other Our Orders ſhall appear to have been obſerved, and Our receiving full ſatisfaction from them therein, before the payment of their Wages, or the further allowance hereafter appointed in conſidera<g ref="char:EOLhyphen"/>tion of their good Service during their ſaid Voyage.</p>
+            <p>Of all which as well every Our ſaid Admirals, Commanders in Chief, private Commanders of Our Ships, and other the Officers within mentioned, as Our preſent Secretary of Our Admiralty, and the Secretary of Our Admiralty for the time being, are hereby required to yeild full and conſtant obe<g ref="char:EOLhyphen"/>dience and conformity, as they will anſwer the contrary at their perils.</p>
+            <p>And to the end, that with the Proviſion thus made, to<g ref="char:EOLhyphen"/>wards the recovery and advancement of the Honour, Diſci<g ref="char:EOLhyphen"/>pline, and Proſperity of Our Naval-Service, We may at the ſame time Teſtifie Our like Royal Inclination to the giving all reaſonable Encouragement to thoſe, who ſhall from hence. forward be employed as Commanders in any of Our Ships; thereby as well to excite and oblige them to a ſtrict comply<g ref="char:EOLhyphen"/>ance with theſe and all other Our Royal Reſolutions and Orders, as the better to enable them to ſupport the Charge and Dignity of their ſaid Employments and Entertainment therein, without reſorting to Methods of doing it ſo injurious to our Honour and Service, and waſteful of Our Treaſure, as thoſe before mentioned have been; We are in the firſt place graciouſly pleaſed (in favour to Our ſaid Commanders) to take upon Our ſelf an encreaſe of
+<pb n="5" facs="tcp:187964:3"/>Charge, beyond what has ever hitherto been at any one time done by any of Our Royal Predeceſſors, namely, by granting (as We hereby do) to the Commanders of every of Our Ships and Veſſels (Yachts only excepted) an annual Allowance (over and above the value of the Victualling they now enjoy in common with their Ship's Companies) for the ſupport of their Tables, proportioned to the reſpective Rates of the Ships and Veſſels they ſhall happen ſeverally to Command; the ſaid allowance to commence upon thoſe of Our Ships which are now ſitting forth, and ſhall at any time hereafter be fitted forth to the Seas, from the date and delivery of their Commanders and Signing Officers joynt Certificate to the Secretary of Our Admiralty, and Com<g ref="char:EOLhyphen"/>miſſioners of Our Navy, of their Ships being compleatly fitted for the Sea, and in readineſs to Execute Our ſinal Orders for their Sailing; and upon ſuch of Our Ships as are at this pre<g ref="char:EOLhyphen"/>ſent abroad, from the day of their Commanders receiving from Our ſaid Secretary (which he is with all convenient ſpeed to di<g ref="char:EOLhyphen"/>ſpatch to them) Copies of this Our Order; and to be continu<g ref="char:EOLhyphen"/>ed both on the one and the other to the Determination of their reſpective Voyages.</p>
+            <p>The value of which allowance hereby ſo granted is as follows,
+<table>
+                  <head>A Table of the Am<gap reason="illegible" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lowance of a <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> C<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>der of each Rate.</head>
+                  <row>
+                     <cell>Rate</cell>
+                     <cell cols="3">Preſent wages.</cell>
+                     <cell cols="3">Preſent victual<g ref="char:EOLhyphen"/>ling.</cell>
+                     <cell cols="3">Additional grant for his table.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <abbr>ll.</abbr>
+                     </cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <abbr>ll.</abbr>
+                     </cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <abbr>ll.</abbr>
+                     </cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>273</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>250</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>219</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>200</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>182</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>166</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>136</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>124</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>109</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>100</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>91</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>83</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:187964:4"/>
+Wherein Our Royal Intention is, that this allowance for Tables granted to Our ſaid Commanders, as Captains of Pri<g ref="char:EOLhyphen"/>vate Ships, ſhall not be conſtrued to the taking away or di<g ref="char:EOLhyphen"/>miniſhing ought of what has been heretofore Eſtabliſhed to Flag Officers, upon account of their Flags.</p>
+            <p>And that We may yet the more effectually excite to a vigo<g ref="char:EOLhyphen"/>rous proſecution of Our Service, ſuch of Our ſaid Commanders, as ſhall be by Us employed in Our Wars with any of the peo<g ref="char:EOLhyphen"/>ple of <hi>Barbary,</hi> (ſuch as that wherein We now are, and have, to the great Expence of Our Treaſure and hazard to Our Subjects Trading into thoſe Seas, for ſeveral years been en<g ref="char:EOLhyphen"/>gaged with thoſe of <hi>Sally</hi>) We are graciouſly pleas'd farther to grant to ſuch Our Commanders the full benefit of all Prizes, (both Hulls, Furniture, Lading and Slaves) that ſhall be by them taken, whether of Ships of VVar, or Merchant Men, ſaving only the Veſſels of Our Subjects happening to have fallen into the hands of ſuch Our Enemies; In which caſe the Salvage only of the Veſſels of Our Subjects reſcued, ſhall go to the Retakers. The whole of which forementioned Prizes and Salvage ſhall be divided between the Commander or Com<g ref="char:EOLhyphen"/>manders, of ſuch Our Ship or Ships (with their Officers and Companies) as were concerned in the Chaſe and Capture of the ſaid Prizes, according to the Law and practice of the Sea. Pro<g ref="char:EOLhyphen"/>vided always, that no part of the Charge of ſecuring or main<g ref="char:EOLhyphen"/>taining any of the Veſſels, Lading, or Companies of the ſaid Prizes, ſhall be placed to Our Account, from the day where<g ref="char:EOLhyphen"/>in the ſame ſhall be firſt brought into any Chriſtian Port, and that the ſaid Prizes be carried into Port, with as little Charge as may be to Us, and without any interruption to the Service wherein Our ſaid Ships were imployed at the time of the Capture.</p>
+            <p>Laſtly, VVe are hereby graciouſly pleaſed further to declare to all Our ſaid Admirals, Commanders in chief, and private Commanders, that as Our Royal Expectation will from hence<g ref="char:EOLhyphen"/>forward be, to have a ſtrict Account given Us of their careful applying themſelves to the Execution and obſervance of theſe
+<pb n="7" facs="tcp:187964:4"/>and all other Our Orders, with intention of expreſſing Our ſevereſt Diſpleaſure againſt ſuch of them (whoever they be) as ſhall be found in any wiſe negligent or unfaithful in the ſame; ſo are We no leſs graciouſly determined at the End of their reſpective Voyages, to Teſtifie by ſome eſpecial Inſtance of Our Bounty (beyond what is hereby already ſo Extraor<g ref="char:EOLhyphen"/>dinarily provided for them) Our particular Regard to whoe<g ref="char:EOLhyphen"/>ver of Our ſaid Commanders ſhall appear to have merited the ſame from Us, by any ſignal Inſtances of their Indu<g ref="char:EOLhyphen"/>ſtry, Courage, Conduct or Frugality evidenced therein on Our behalf.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Windſor</hi> 
+                  <date>this 15th. day of <hi>July</hi> 1686.</date>
+               </dateline>
+               <signed>By His Majeſties Command.
+<hi>S. PEPYS.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>A True Copy.</p>
+            </postscript>
+            <pb facs="tcp:187964:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
